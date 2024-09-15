@@ -1,0 +1,17 @@
+{
+  "name": "halcyon-prototype",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Sangwon Park",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^32.1.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "d3": "^7.9.0",
+    "simplemde": "^1.11.2"
+  }
+}
