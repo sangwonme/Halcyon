@@ -15,3 +15,10 @@ package.json -->
 yarn react-start
 yarn electron-start
 yarn electron-pack
+
+<!-- sass -->
+yarn add sass
+
+<!-- simplemde -->
+[ref](https://github.com/RIP21/react-simplemde-editor?tab=readme-ov-file)
+yarn add --save react-simplemde-editor easymde
